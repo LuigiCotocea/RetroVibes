@@ -28,10 +28,12 @@
 position: absolute;
   top: 50%;
   left: 12%;
-  transform: translate(-50%, -1000%);
+  transform: translate(-50%, -950%);
   text-align: center;
   color: #51eb0f; /* Adjust text color as needed */
   font-family: Retroville-NC;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .status {
@@ -42,6 +44,8 @@ position: absolute;
   text-align: center;
   color: #51eb0f; /* Adjust text color as needed */
   font-family: Retroville-NC;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .statushome {
@@ -52,6 +56,8 @@ position: absolute;
   text-align: center;
   color: #51eb0f; /* Adjust text color as needed */
   font-family: Retroville-NC;
+  margin-top: 0px;
+  margin-bottom: 0px;
 }
 
 .table {
@@ -92,7 +98,7 @@ th {
    color: #51eb0f;
    font-family: monospace;
    margin-top: 0px;
-  margin-bottom: 0px;
+   margin-bottom: 0px;
 }
 
 .text2 {
@@ -184,6 +190,30 @@ th {
   top: 27%;
   left: 225px;
   transform: translate(-50%, 138px);
+  text-align: center;
+  color: #f38933;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.gif2 {
+  position: absolute;
+  top: 27%;
+  left: 1270px;
+  transform: translate(-50%, -230px);
+  text-align: center;
+  color: #f38933;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.gif3 {
+  position: absolute;
+  top: 27%;
+  left: 75px;
+  transform: translate(-50%, -75px);
   text-align: center;
   color: #f38933;
   font-family: monospace;
