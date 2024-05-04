@@ -1,0 +1,74 @@
+* {
+    background-color: black; /* #121112; */
+    font-family: Retroville NC;
+}
+
+@font-face {
+    font-family: 'Retroville-NC'; /* Give your font a name */
+    src: url(Retroville-NC.ttf);
+}
+
+.chart {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1
+}
+
+.chart video {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.title {
+position: absolute;
+  top: 50%;
+  left: 12%;
+  transform: translate(-50%, -1000%);
+  text-align: center;
+  color: #51eb0f; /* Adjust text color as needed */
+  font-family: Retroville-NC;
+}
+
+.status {
+  position: absolute;
+  top: 27%;
+  left: 70px;
+  transform: translate(-50%, -1000%);
+  text-align: center;
+  color: #51eb0f; /* Adjust text color as needed */
+  font-family: Retroville-NC;
+}
+
+.statushome {
+    position: absolute;
+  top: 27%;
+  left: 132px;
+  transform: translate(-50%, -900%);
+  text-align: center;
+  color: #51eb0f; /* Adjust text color as needed */
+  font-family: Retroville-NC;
+}
+
+.table {
+   position: absolute;
+   top: 27%;
+   left: 240px;
+   transform: translate(-50%, -120px);
+   text-align: center;
+   color: #f38933; /* Adjust text color as needed */
+   border-collapse: collapse;
+   border: 2px solid rgb(140 140 140);
+   font-family: Retroville-NC;
+   font-size: 0.8rem;
+   letter-spacing: 1px;
+}
+
+th {
+    border: 1px solid rgb(167 135 255);
+    padding: 8px 10px;
+  }
