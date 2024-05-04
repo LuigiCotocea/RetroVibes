@@ -72,3 +72,122 @@ th {
     border: 1px solid rgb(167 135 255);
     padding: 8px 10px;
   }
+
+.color {
+   position: absolute;
+   top: 27%;
+   left: 55px;
+   transform: translate(-50%, -70px);
+   text-align: center;
+   color: purple;
+   font-family: Retroville-NC;
+}
+
+.text1 {
+  position: absolute;
+   top: 27%;
+   left: 90px;
+   transform: translate(-50%, -20px);
+   text-align: center;
+   color: #51eb0f;
+   font-family: monospace;
+   margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text2 {
+  position: absolute;
+  top: 27%;
+  left: 175px;
+  transform: translate(-50%, 0px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text3 {
+  position: absolute;
+  top: 27%;
+  left: 178px;
+  transform: translate(-50%, 20px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text4 {
+  position: absolute;
+  top: 27%;
+  left: 235px;
+  transform: translate(-50%, 60px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text5 {
+  position: absolute;
+  top: 27%;
+  left: 180px;
+  transform: translate(-50%, 80px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text6 {
+  position: absolute;
+  top: 27%;
+  left: 85px;
+  transform: translate(-50%, 100px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text7 {
+  position: absolute;
+  top: 27%;
+  left: 68px;
+  transform: translate(-50%, 137px);
+  text-align: center;
+  color: #51eb0f;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.text7Mail {
+  position: absolute;
+  top: 27%;
+  left: 225px;
+  transform: translate(-50%, 138px);
+  text-align: center;
+  color: #f38933;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.gif {
+  position: absolute;
+  top: 27%;
+  left: 225px;
+  transform: translate(-50%, 138px);
+  text-align: center;
+  color: #f38933;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
