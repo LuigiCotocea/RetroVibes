@@ -176,7 +176,7 @@ th {
 .text7Mail {
   position: absolute;
   top: 27%;
-  left: 225px;
+  left: 220px;
   transform: translate(-50%, 138px);
   text-align: center;
   color: #f38933;
@@ -189,7 +189,7 @@ th {
   position: absolute;
   top: 27%;
   left: 225px;
-  transform: translate(-50%, 138px);
+  transform: translate(-50%, 180px);
   text-align: center;
   color: #f38933;
   font-family: monospace;
@@ -216,6 +216,18 @@ th {
   transform: translate(-50%, -75px);
   text-align: center;
   color: #f38933;
+  font-family: monospace;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.timeplaceholder {
+  position: absolute;
+  top: 27%;
+  left: 160px;
+  transform: translate(-50%, 500px);
+  text-align: center;
+  color: #F6AE2D;
   font-family: monospace;
   margin-top: 0px;
   margin-bottom: 0px;
